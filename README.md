@@ -1,4 +1,4 @@
-A curated collection of data analysis and machine learning projects demonstrating practical application of statistical analysis and predictive modeling techniques.
+A curated collection of data analysis and machine learning projects demonstrating practical application of statistical analysis and predictive modeling techniques. <br>
 📁 Repository Overview
 
 This repository serves as a portfolio of my data science work, focusing on:
@@ -22,17 +22,17 @@ Technologies & Tools
     Environments: Jupyter Notebooks, VS Code and etc
     Version Control: Git, GitHub
 
-📊 Project Structure
-text
-├── 📁 project-1-title/
-│   ├── notebook.ipynb
-│   ├── data/               # Dataset files
-├── 📁 project-2-title/
-│   ├── notebook.ipynb
-│   ├── data/
-└── 📁 project-3-title/
-    ├── notebook.ipynb
-    ├── data/
+📊 Project Structure <br>
+<br>
+├── 📁 project-1-title/<br>
+│   ├── notebook.ipynb<br>
+│   ├── data/<br>
+├── 📁 project-2-title/<br>
+│   ├── notebook.ipynb<br>
+│   ├── data/<br>
+└── 📁 project-3-title/<br>
+    ├── notebook.ipynb<br>
+    ├── data/<br>
 
 🚀 Getting Started
 Prerequisites
